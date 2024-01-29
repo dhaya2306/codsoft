@@ -10,7 +10,7 @@ public class numbergame
         Scanner scanner = new Scanner(System.in);
             Random random = new Random();
             int lowerBound = 1;
-            int upperBound = 10;
+            int upperBound = 100;
             int maxAttempts = 3;
             int score = 0;
 
